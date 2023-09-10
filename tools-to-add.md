@@ -14,6 +14,7 @@
 [ ] dependencywalker
 [ ] die
 [ ] dll-to-exe
+[ ] dnspy
 [ ] dnspyex
 [ ] explorersuite
 [ ] fakenet-ng
